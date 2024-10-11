@@ -13,7 +13,7 @@ status-website:
   baseUrl: /LaunchQStatus-DEV
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: LaunchQ Status (DEV)
-  introTitle: "**LaunchQ** Status (DEV)
+  introTitle: "**LaunchQ** Status (DEV)"
   introMessage: 
   navbar:
     - title: Status
