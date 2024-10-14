@@ -5,6 +5,16 @@ repo: LaunchQStatus-DEV # The name of this repository
 sites:
   - name: LaunchQ Web App
     url: https://app-dev.launchq.ai/
+  - name: LaunchQ API
+    url: $LAUNCHQ_ENDPOINT_DS
+  - name: LaunchQ SFDC API
+    url: $LAUNCHQ_ENDPOINT_SFDC
+  - name: LaunchQ Twilio API
+    url: $LAUNCHQ_ENDPOINT_TWILIO
+  - name: LaunchQ Twilio API 2
+    url: $LAUNCHQ_ENDPOINT_TWILIO_2    
+  - name: LaunchQ User API
+    url: $LAUNCHQ_ENDPOINT_B2C    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
