@@ -1,7 +1,7 @@
 url: $LAUNCHQ_ENDPOINT_TWILIO_2
-status: up
-code: 200
-responseTime: 559
-lastUpdated: 2024-10-22T21:28:41.413Z
+status: down
+code: 404
+responseTime: 26
+lastUpdated: 2024-10-22T21:53:35.964Z
 startTime: 2024-10-14T09:02:22.771Z
 generator: Upptime <https://github.com/upptime/upptime>
